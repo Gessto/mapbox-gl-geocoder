@@ -58,9 +58,6 @@
     "tape": "^4.10.1",
     "uglify-js": "^2.8.29"
   },
-  "peerDependencies": {
-    "mapbox-gl": ">= 0.47.0 < 3.0.0"
-  },
   "dependencies": {
     "@mapbox/mapbox-sdk": "^0.13.3",
     "events": "^3.3.0",
